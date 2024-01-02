@@ -23,7 +23,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url(https://fxtonly.github.io/music_page/images/main_bg.png);
+  background: url("https://fxtonly.github.io/music_page/images/main_bg.png");
   background-size: cover;
   background-position: center;
 }
